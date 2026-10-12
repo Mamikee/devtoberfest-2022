@@ -9,7 +9,7 @@ parser: v2
 ---
 # 🟢 Devtoberfest 2026 - Week 4 -  Devtoberfest 2026 - Validation Tutorial - Extending the Core - Week 4
 
-<!-- description --> This is the validation tutorial so you can get Devtoberfest points for watching the 🟢 Extending the Core sessions for week 4.
+<!-- description --> This is the validation tutorial so you can get Devtoberfest points for watching the 🟢 Extending the Core sessions for week 4. 
 
 ## You will learn
 
